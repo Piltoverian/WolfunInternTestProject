@@ -18,9 +18,9 @@
 
 ## 3. Phím / Nút điều khiển
 * **Di chuyển:** Sử dụng cụm phím `W A S D` trên bàn phím (hoặc kéo Joystick ảo trên màn hình).
-* **Kỹ năng 1 (Đánh thường):** Bắn 3 viên đạn hình nón (Click vào nút Kỹ năng 1 trên UI).
-* **Kỹ năng 2 (Đặt Bom):** Đặt bom tại chỗ, nổ sau 2s (Click nút Kỹ năng 2).
-* **Kỹ năng 3 (Dash):** Lướt nhanh về phía trước và nổ (Click nút Kỹ năng 3).
+* **Kỹ năng 1 (Đánh thường):** Bắn 3 viên đạn hình nón (Click vào nút Kỹ năng 1 trên UI hoặc phím K).
+* **Kỹ năng 2 (Đặt Bom):** Đặt bom tại chỗ, nổ sau 2s (Click nút Kỹ năng 2 hoặc phím H).
+* **Kỹ năng 3 (Dash):** Lướt nhanh về phía trước và nổ (Click nút Kỹ năng 3 hoặc phím J).
 
 ## 4. Danh sách các phần đã làm được
 ### Bắt buộc (Core Gameplay - 100%)
